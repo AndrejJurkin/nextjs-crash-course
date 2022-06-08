@@ -40,9 +40,9 @@
 }
 
 .title {
-  margin: 0;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: calc(1.5rem + 2vmin);
+  margin-bottom: 2rem;
 }
 
 .title,

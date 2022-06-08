@@ -14,3 +14,9 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.center {
+  padding: 2rem;
+  max-width: 500px;
+  margin: 0 auto;
+}
